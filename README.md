@@ -8,16 +8,14 @@ descrições de produtos de e-commerce por meio de modelos de linguagem.
 - **Tema escolhido:** 6 — Consumo de API LLMs.
 - **Problema específico:** padronizar a criação de descrições de produtos usando
   templates reutilizáveis, variáveis validadas e histórico auditável.
-- **Repositório GitHub:** `[PREENCHER URL DO REPOSITÓRIO - OBRIGATÓRIO]`
-- **Trello:** `[PREENCHER URL DO QUADRO - OBRIGATÓRIO]`
+- **Repositório GitHub:** `https://github.com/viniciuseddo/prompt`
+- **Trello:** `https://trello.com/b/o6RDSRUG/cp1-promptflow-api`
 
 ### Integrantes
 
-1. `[PREENCHER NOME COMPLETO - OBRIGATÓRIO]`
-2. `[PREENCHER NOME COMPLETO - OBRIGATÓRIO]`
-3. `[PREENCHER NOME COMPLETO OU REMOVER SE FOR DUPLA]`
+INTEGRANTE 1: [VINICIUS EDDO]
+INTEGRANTE 2: [RODRIGO BETTIO]
 
-Não foram inventados nomes. Os mesmos nomes devem constar em `integrantes.txt`.
 
 ## Funcionalidades e regras de negócio
 
