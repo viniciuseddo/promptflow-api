@@ -3,7 +3,7 @@
 > **Ação obrigatória antes da entrega:** criar o quadro no Trello e substituir o
 > campo abaixo pelo link visível ao professor.
 
-**Link do quadro:** `[PREENCHER URL DO TRELLO - OBRIGATÓRIO]`
+**Link do quadro:** `https://trello.com/b/o6RDSRUG/cp1-promptflow-api`
 
 ## Método adotado
 
