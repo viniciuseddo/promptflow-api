@@ -1,0 +1,23 @@
+GUIA OBJETIVO — DUAS ATIVIDADES
+================================
+
+ANTES DE ENVIAR (OBRIGATÓRIO)
+1. Preencha os nomes reais em integrantes.txt e no README.md.
+2. Crie o quadro Trello usando docs/PLANEJAMENTO_AGIL.md e cole a URL no README
+   e no próprio arquivo de planejamento.
+3. Publique o projeto em um GitHub público ou conceda acesso ao professor e cole
+   a URL no README.
+4. Refaça o ZIP depois dessas alterações. Não inclua .env, chave de API, .venv ou
+   banco .db.
+
+ATIVIDADE 1 — “CP1 - AICSS + Python” (vence às 23:55 na imagem)
+- Envie promptflow-api-entrega.zip.
+- Se houver campo de texto, cole também a URL do GitHub e a URL do Trello.
+
+ATIVIDADE 2 — “AICSS - CHECKPOINT 1 - Conjunto com python” (vence às 23:59)
+- Envie o mesmo promptflow-api-entrega.zip, conforme a entrega conjunta indicada.
+- Confirme que integrantes.txt está na raiz do ZIP e contém todos os nomes reais.
+
+As imagens permitem vários envios. Se corrigir nomes ou links, gere e envie um
+novo ZIP antes do prazo. Nenhum nome foi inventado neste pacote.
+
